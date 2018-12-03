@@ -13,7 +13,7 @@ library(shiny)
 ui <- fluidPage(
    
    # Application title
-   titlePanel("changed the name of the titlepanel"),
+   titlePanel("changed titlepanel in GITHUB"),
    
    # Sidebar with a slider input for number of bins 
    sidebarLayout(
